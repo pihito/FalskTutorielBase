@@ -1,0 +1,5 @@
+Flask
+Flask-restful
+Flask-bootstrap
+Flask-Nav
+Flask-script
